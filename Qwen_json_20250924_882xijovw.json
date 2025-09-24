@@ -1,6 +1,6 @@
 {
-  "name": "your-app-name",
-  "homepage": "https://yourusername.github.io/your-repo-name",
+  "name": "blockchain-authenticator",
+  "homepage": "https://github.com/Kyureeus-Edtech",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
